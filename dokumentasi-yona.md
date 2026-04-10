@@ -9,5 +9,5 @@ LANGKAH UJIKOM 1 JARINGAN TEKNOLOGI
 8. Lalu ketik ip a untuk melihat ip
 9. Ke Zoiper lalu masukan username dan password, lalu dibagian hostname isi dengan ip yang didapatkan ini merupakan bagian di device 1 dan lakukan hal yang sama di device 2
 10. Lakukan panggilan dari device 1 ke device 2 dan jangan lupa untuk memberikan nama untk penerima
-Hasilnya:
+11. Untuk Hasilnya:
 ![alt text](<Hasil UJIKOM1.png>)
